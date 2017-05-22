@@ -6,6 +6,7 @@ public class Testclass {
 	System.out.println("Test");
 	System.out.println("TEST2");
 	
+	System.out.println(TestclassNo2.dublicate(4));
     }
 
 }
